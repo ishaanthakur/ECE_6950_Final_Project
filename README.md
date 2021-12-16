@@ -1,4 +1,4 @@
-# ECE_6950_Final_Project
+# ECE 6950 Final Project
 Name - Ishaan Thakur (it233) and Parth Sarthi Sharma (pss242)
 
 Things to download/check before running the program:
